@@ -25,9 +25,9 @@ Image-Steganography/
 ├── steganography_decrypt.py
 ├── IM.jpg                  # Sample input image
 ├── requirements.txt
-    ```bash
+```bash
     pip install -r requirements.txt
-    ```
+```
 └── README.md
 ```
 
